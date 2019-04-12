@@ -1,0 +1,1 @@
+from gym_go.envs.go_env import GoEnv
