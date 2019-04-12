@@ -24,10 +24,6 @@ That's all for use.
 * [Numpy](http://www.numpy.org/) - Is the fundamental package for scientific computing with Python.
 * [Python](https://www.python.org/) - Programming Language
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
